@@ -12,10 +12,10 @@ This repository contains the projects completed as part of the **Oasis Infobyte 
 
 | Task | Project | Status |
 |------|---------|:------:|
-| Task 1 | Iris Flower Classification | In Progress |
-| Task 2 | Unemployment Analysis with Python | Pending |
-| Task 3 | Car Price Prediction | Pending |
-| Task 4 | Email Spam Detection | Pending |
+| Task 1 | Iris Flower Classification | Completed |
+| Task 2 | Unemployment Analysis with Python | Completed |
+| Task 3 | Car Price Prediction | Completed |
+| Task 4 | Email Spam Detection | In Progress |
 | Task 5 | Sales Prediction Using Python | Pending |
 
 ## Technology Stack
